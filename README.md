@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LiahSilvah
-- 📌In Brazil
-- I Love Medicine 🩺💉🧪🧬
-- Interessada em aprender novas linguagens 🥱
+- 👋 Oi, eu sou @Juliana_Silva
+- Podem me chamar apenas de @Liah_Silvah
+- 📌Localizada no Brasil
+- Amor por med 🩺💉🧪🧬
+- Interessada em aprender novas linguagens da computação 🥱
 
 <!---
 LiahSilvah/LiahSilvah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
