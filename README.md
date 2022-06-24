@@ -1,5 +1,5 @@
 - 👋 Oi, eu sou @Juliana_Silva
-- Podem me chamar apenas de @Liah_Silvah
+- Podem me chamar apenas de **@Liah_Silvah**
 - 📌Localizada no Brasil
 - Amor por med 🩺💉🧪🧬
 - Interessada em aprender novas linguagens da computação 🥱
